@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "Meta Reels Scheduler Local Helper",
+  "version": "2.2.0",
+  "description": "Enterprise API & WebSocket connector for Meta Reels Composer.",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:8765/*",
+    "ws://127.0.0.1:8765/*",
+    "https://business.facebook.com/*",
+    "https://*.facebook.com/*",
+    "https://facebook.com/*",
+    "https://*.meta.com/*",
+    "https://meta.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://business.facebook.com/*",
+        "https://*.facebook.com/*",
+        "https://facebook.com/*",
+        "https://*.meta.com/*",
+        "https://meta.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ]
+}

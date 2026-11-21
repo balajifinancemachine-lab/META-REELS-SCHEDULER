@@ -1,0 +1,266 @@
+{
+  "pages": [
+    {
+      "id": "573974582461345",
+      "name": "patpedhi (573974582461345)",
+      "url": "https://business.facebook.com/latest/reels_composer/?asset_id=573974582461345&business_id=645625381317413&ir_qe_exposed=1&ref=biz_web_content_manager_published_posts&context_ref=POSTS",
+      "enabled": true,
+      "video": "",
+      "location": "",
+      "caption": ""
+    }
+  ],
+  "selected_profile": "Profile 15",
+  "user_data_dir": "C:\\Users\\JMD\\AppData\\Local\\Google\\Chrome\\User Data",
+  "global_video": "D:/downloads/VIDEOS/#DailySavings #FirstLoan #EasyLoan #DailyCollection #SavingsYojana #SmartBachat #8PercentInterest #LoanMadeSimple #FinancialFreedom #GoldLoan #MortgageLoan #CorporateLoan #TrustedSince2004 #JaiMataDi #MumbaiFinance # ( (16).mp4",
+  "location": "Mumbai",
+  "schedule_time": "00:05",
+  "schedules": [
+    {
+      "id": "sched_0005",
+      "name": "Daily Reel (12:05 AM)",
+      "time": "00:05",
+      "enabled": true,
+      "days": "DAILY",
+      "target_brand": "ALL",
+      "repeat_interval_minutes": 0,
+      "repeat_duration_hours": 0,
+      "video": "",
+      "caption": "",
+      "last_run": "2026-11-20 00:05:00",
+      "last_trigger": "2026-11-20:00:05",
+      "last_run_date": "2026-11-20"
+    },
+    {
+      "id": "sched_0110",
+      "name": "Daily Reel (01:10 AM)",
+      "time": "01:10",
+      "enabled": true,
+      "days": "DAILY",
+      "target_brand": "ALL",
+      "repeat_interval_minutes": 0,
+      "repeat_duration_hours": 0,
+      "video": "",
+      "caption": "",
+      "last_run": "2026-11-20 01:10:02",
+      "last_trigger": "2026-11-20:01:10",
+      "last_run_date": "2026-11-20"
+    },
+    {
+      "id": "sched_0315",
+      "name": "Daily Reel (03:15 AM)",
+      "time": "03:15",
+      "enabled": true,
+      "days": "DAILY",
+      "target_brand": "ALL",
+      "repeat_interval_minutes": 0,
+      "repeat_duration_hours": 0,
+      "video": "",
+      "caption": "",
+      "last_run": "2026-11-20 03:15:00",
+      "last_trigger": "2026-11-20:03:15",
+      "last_run_date": "2026-11-20"
+    },
+    {
+      "id": "sched_0415",
+      "name": "Daily Reel (04:15 AM)",
+      "time": "04:15",
+      "enabled": true,
+      "days": "DAILY",
+      "target_brand": "ALL",
+      "repeat_interval_minutes": 0,
+      "repeat_duration_hours": 0,
+      "video": "",
+      "caption": "",
+      "last_run": "2026-11-20 04:15:02",
+      "last_trigger": "2026-11-20:04:15",
+      "last_run_date": "2026-11-20"
+    },
+    {
+      "id": "sched_0520",
+      "name": "Daily Reel (05:20 AM)",
+      "time": "05:20",
+      "enabled": true,
+      "days": "DAILY",
+      "target_brand": "ALL",
+      "repeat_interval_minutes": 0,
+      "repeat_duration_hours": 0,
+      "video": "",
+      "caption": "",
+      "last_run": "2026-11-20 05:20:00",
+      "last_trigger": "2026-11-20:05:20",
+      "last_run_date": "2026-11-20"
+    }
+  ],
+  "caption": "9769602020 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#love\n#instagood\n#instagram\n#fashion\n#photooftheday\n#photography\n#art\n#beautiful\n#nature\n#picoftheday\n#travel\n#reels\n#explorepage\n#trending\n#ınstadaily\n#reelsinstagram\n#reelsindia\n#reelkarofeelkaro\n#viralreels\n#trendingreels\n#explore\n#fyp\n#instareels\n#virałpost\n#loan #reels #viral #trending #finance #business #loans #homeloan #money #mumbai #india",
+  "auto_publish": true,
+  "step_sequence": "caption_first",
+  "composer_step_order": [
+    "caption",
+    "location",
+    "messages",
+    "video_upload"
+  ],
+  "brands": [
+    {
+      "id": "brand_loan",
+      "name": "Loan & Finance",
+      "description": "Primary Loan and Financial Services Pages",
+      "chrome_profile": "Profile 15",
+      "video": "C:/Users/JMD/Documents/Apps/meta/loan/loan (5).mp4",
+      "caption": "9930604542 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#love\n#instagood\n#instagram\n#fashion\n#photooftheday\n#photography\n#art\n#beautiful\n#nature\n#picoftheday\n#travel\n#reels\n#explorepage\n#trending\n#ınstadaily\n#reelsinstagram\n#reelsindia\n#reelkarofeelkaro\n#viralreels\n#trendingreels\n#explore\n#fyp\n#instareels\n#virałpost\n#loan #reels #viral #trending #finance #business #loans #homeloan #money #mumbai #india",
+      "location": "Mumbai",
+      "auto_publish": true,
+      "step_sequence": "caption_first",
+      "composer_step_order": [
+        "caption",
+        "location",
+        "messages",
+        "video_upload"
+      ],
+      "pages": [
+        {
+          "id": "1021342791059139",
+          "name": "Meta Page 1 (1021342791059139)",
+          "url": "https://business.facebook.com/latest/reels_composer/?asset_id=1021342791059139&business_id=1900745127232068&ir_qe_exposed=1&ref=biz_web_content_manager_published_posts&context_ref=POSTS",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "968940149639460",
+          "name": "Meta Page 2 (968940149639460)",
+          "url": "https://business.facebook.com/latest/reels_composer/?global_scope_id=1937166564351023&business_id=1937166564351023&page_id=968940149639460&asset_id=968940149639460&redirect_session_id=1f660f98-bb22-4c65-a695-13e4a64dde8e",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "540655599140522",
+          "name": "Meta Page 3 (540655599140522)",
+          "url": "https://business.facebook.com/latest/reels_composer/?global_scope_id=1824218265609572&business_id=1824218265609572&page_id=540655599140522&asset_id=540655599140522&redirect_session_id=a4296ebf-6b36-40b3-ac22-ea4b2f7e87de",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "606126075924474",
+          "name": "Meta Page 4 (606126075924474)",
+          "url": "https://business.facebook.com/latest/reels_composer/?global_scope_id=1462542391914857&business_id=1462542391914857&page_id=606126075924474&asset_id=606126075924474&redirect_session_id=b9ab468d-b116-4689-8cce-e0590b9836dd",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "998352433357127",
+          "name": "Meta Page 5 (998352433357127)",
+          "url": "https://business.facebook.com/latest/reels_composer/?global_scope_id=1111672017709796&business_id=1111672017709796&page_id=998352433357127&asset_id=998352433357127&redirect_session_id=9e4824b4-96b5-40b6-9fd5-e6741c361739",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "953852091149168",
+          "name": "Meta Page 7 (953852091149168)",
+          "url": "https://business.facebook.com/latest/reels_composer/?global_scope_id=26050327574599734&business_id=26050327574599734&page_id=953852091149168&asset_id=953852091149168&redirect_session_id=8c8e6850-1369-4046-bfb9-d207def2df12",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "762973700228895",
+          "name": "Meta Page 8 (762973700228895)",
+          "url": "https://business.facebook.com/latest/reels_composer/?global_scope_id=919018607501878&business_id=919018607501878&page_id=762973700228895&asset_id=762973700228895&redirect_session_id=408c9a46-cd19-4e50-a61f-ed03e3106bfb",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "552254391307530",
+          "name": "Meta Page 9 (552254391307530)",
+          "url": "https://business.facebook.com/latest/reels_composer/?global_scope_id=2788006474877635&business_id=2788006474877635&page_id=552254391307530&asset_id=552254391307530&redirect_session_id=e5e959e6-4110-41f5-8df0-8296700037df",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "601054863081730",
+          "name": "Meta Page 10 (601054863081730)",
+          "url": "https://business.facebook.com/latest/reels_composer/?global_scope_id=1598137398647597&business_id=1598137398647597&page_id=601054863081730&asset_id=601054863081730&redirect_session_id=ad14fbb0-a59e-404b-aca6-984a590402d7",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "717586494764278",
+          "name": "Meta Page 11 (717586494764278)",
+          "url": "https://business.facebook.com/latest/reels_composer/?page_id=717586494764278&asset_id=717586494764278&redirect_session_id=2760f4ef-a98f-470d-9b61-1695c022dd23",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "964243106761488",
+          "name": "Meta Page 12 (964243106761488)",
+          "url": "https://business.facebook.com/latest/reels_composer/?page_id=964243106761488&asset_id=964243106761488&redirect_session_id=f714874c-4b62-4b6e-85f3-8a3e5c8a8340",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        },
+        {
+          "id": "974128589119815",
+          "name": "Meta Page 13 (974128589119815)",
+          "url": "https://business.facebook.com/latest/reels_composer/?page_id=974128589119815&asset_id=974128589119815&redirect_session_id=7dd10b66-59fd-4ec2-a0b8-553887dd0dc3",
+          "enabled": true,
+          "video": "",
+          "caption": "",
+          "location": ""
+        }
+      ],
+      "media_folder": "C:\\Users\\JMD\\Documents\\Apps\\meta\\loan"
+    },
+    {
+      "id": "brand_1795088707341",
+      "name": "patpedhi",
+      "description": "",
+      "chrome_profile": "Profile 15",
+      "video": "D:/downloads/VIDEOS/#DailySavings #FirstLoan #EasyLoan #DailyCollection #SavingsYojana #SmartBachat #8PercentInterest #LoanMadeSimple #FinancialFreedom #GoldLoan #MortgageLoan #CorporateLoan #TrustedSince2004 #JaiMataDi #MumbaiFinance # ( (16).mp4",
+      "caption": "9769602020 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#love\n#instagood\n#instagram\n#fashion\n#photooftheday\n#photography\n#art\n#beautiful\n#nature\n#picoftheday\n#travel\n#reels\n#explorepage\n#trending\n#ınstadaily\n#reelsinstagram\n#reelsindia\n#reelkarofeelkaro\n#viralreels\n#trendingreels\n#explore\n#fyp\n#instareels\n#virałpost\n#loan #reels #viral #trending #finance #business #loans #homeloan #money #mumbai #india",
+      "location": "Mumbai",
+      "auto_publish": true,
+      "step_sequence": "caption_first",
+      "composer_step_order": [
+        "caption",
+        "location",
+        "messages",
+        "video_upload"
+      ],
+      "pages": [
+        {
+          "id": "573974582461345",
+          "name": "patpedhi (573974582461345)",
+          "url": "https://business.facebook.com/latest/reels_composer/?asset_id=573974582461345&business_id=645625381317413&ir_qe_exposed=1&ref=biz_web_content_manager_published_posts&context_ref=POSTS",
+          "enabled": true,
+          "video": "",
+          "location": "",
+          "caption": ""
+        }
+      ],
+      "media_folder": ""
+    }
+  ],
+  "active_brand_id": "brand_1795088707341",
+  "block_input_during_automation": true,
+  "max_publications_per_day": 7
+}
